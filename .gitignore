@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.kiota.log
+
+# Local secrets/config
+src/KrogerMcp.Host/appsettings.Development.json
